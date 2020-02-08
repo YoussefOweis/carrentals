@@ -21,5 +21,11 @@ namespace carRentals
         {
             MessageBox.Show("first message");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("first sef");
+
+        }
     }
 }
