@@ -1,5 +1,6 @@
 c:\users\oweis\documents\visual studio 2015\Projects\carRentals\carRentals\bin\Debug\carRentals.exe.config
 C:\Users\oweis\Documents\carrentals\carRentals\carRentals\bin\Debug\carRentals.exe.config
+<<<<<<< HEAD
 C:\Users\ss\Desktop\carrentals\carRentals\carRentals\bin\Debug\carRentals.exe.config
 C:\Users\ss\Desktop\carrentals\carRentals\carRentals\bin\Debug\carRentals.exe
 C:\Users\ss\Desktop\carrentals\carRentals\carRentals\bin\Debug\carRentals.pdb
@@ -9,3 +10,6 @@ C:\Users\ss\Desktop\carrentals\carRentals\carRentals\obj\Debug\carRentals.Proper
 C:\Users\ss\Desktop\carrentals\carRentals\carRentals\obj\Debug\carRentals.csproj.GenerateResource.Cache
 C:\Users\ss\Desktop\carrentals\carRentals\carRentals\obj\Debug\carRentals.exe
 C:\Users\ss\Desktop\carrentals\carRentals\carRentals\obj\Debug\carRentals.pdb
+=======
+C:\Users\youssef\Desktop\carrentals\carRentals\carRentals\bin\Debug\carRentals.exe.config
+>>>>>>> master
